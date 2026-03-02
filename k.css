@@ -92,7 +92,7 @@ button:hover{
 
 /*header background*/
 header{
-background-image: url(file:///C:/Users/Moana/Desktop/learn/kh1.jpg) ;
+background-image: url(kh1.jpg) ;
 background-size: cover;
 background-repeat: no-repeat ;
 height: 100vh;
